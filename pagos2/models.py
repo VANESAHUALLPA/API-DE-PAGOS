@@ -1,6 +1,6 @@
 from django.db import models
 from django.utils.translation import gettext_lazy as _
-from users2.models import Users2
+from users2.models import User
 from pagos.models import Pagos
 from django.contrib.auth.models import AbstractUser
 
